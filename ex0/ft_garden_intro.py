@@ -1,6 +1,15 @@
+#!/usr/bin/env python3
+
+def show_garden_intro(name: str, height: int, age: int) -> None:
+    print("=== Welcome to My Garden ===")
+    print(f"Plant: {name}")
+    print(f"Height: {height}cm")
+    print(f"Age: {age} days")
+    print("\n=== End of Program ===")
+
+
 if __name__ == "__main__":
-	print("=== Welcome to My Garden ===")
-	print("Plant: Rose")
-	print("Height: 25cm")
-	print("Age: 30 days\n")
-	print("=== End of Program ===")
+    name: str = "Rose"
+    height: int = 25
+    age: int = 30
+    show_garden_intro(name, height, age)
