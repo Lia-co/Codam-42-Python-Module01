@@ -16,7 +16,7 @@ After finishing this module, differences between function and program, differren
 
 
 # RESOURCES
-[W3Schools: Python Tutorial](https://www.w3schools.com/python/)
-[W3Schools: Python OOP](https://www.w3schools.com/python/python_oop.asp)
-[GeeksforGeeks: Python OOP Concepts](https://www.geeksforgeeks.org/python/python-oops-concepts/)
+[W3Schools: Python Tutorial](https://www.w3schools.com/python/)</br>
+[W3Schools: Python OOP](https://www.w3schools.com/python/python_oop.asp)</br>
+[GeeksforGeeks: Python OOP Concepts](https://www.geeksforgeeks.org/python/python-oops-concepts/)</br>
 [Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
